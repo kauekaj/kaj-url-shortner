@@ -1,2 +1,5 @@
-# kaj-url-shortner
- Projeto para encurtar URL
+# url-shortener-dio
+
+Projeto para construção de um Encurtador de URL criado no bootcamp da DIO.
+
+
